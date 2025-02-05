@@ -91,6 +91,11 @@
     font-weight: 700;
     border-radius: 40px;
   }
+  .header__login .login:hover {
+    background: linear-gradient(45deg, #51ff00, #00ff6a);
+    -webkit-background-clip: border-box;
+    background-position: right bottom;
+  }
 
   /* PLAYLIST */
 .playlist-container {
